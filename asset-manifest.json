@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aks-sys-frontend/static/css/main.073c9b0a.css",
+    "main.js": "/aks-sys-frontend/static/js/main.19d13fd1.js",
+    "index.html": "/aks-sys-frontend/index.html",
+    "main.073c9b0a.css.map": "/aks-sys-frontend/static/css/main.073c9b0a.css.map",
+    "main.19d13fd1.js.map": "/aks-sys-frontend/static/js/main.19d13fd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.19d13fd1.js"
+  ]
+}
