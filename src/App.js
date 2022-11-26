@@ -1,10 +1,16 @@
 import './App.css';
+import {BrowserRouter, Route, Routes} from "react-router-dom";
+import HomeBot from "./pages/bot-app/home";
+
 
 function App() {
   return (
-    <div className="App">
-      <h1>TEST</h1>
-    </div>
+      // <BrowserRouter basename={'/aks-sys-frontend/'}>
+      <BrowserRouter basename={'/aks-sys-frontend/'}>
+          <Routes>
+              <Route index element={<HomeBot/>} />
+          </Routes>
+      </BrowserRouter>
   );
 }
 

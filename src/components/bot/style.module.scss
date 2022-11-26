@@ -1,0 +1,43 @@
+.botCard {
+  position: relative;
+  height: 260px;
+  width: 260px;
+
+  &__body {
+    padding: 35% 20px 20px 20px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 166px;
+    border-radius: 20px;
+    background: white;
+  }
+
+  &__imgWrp {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+    height: 166px;
+    border-radius: 20px;
+    background: slategray;
+  }
+
+  &__title {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #070721;
+    margin: 6px 0;
+
+  }
+
+  &__description {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #8E8C99;
+  }
+}
