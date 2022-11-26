@@ -6,7 +6,7 @@ import HomeBot from "./pages/bot-app/home";
 function App() {
   return (
       // <BrowserRouter basename={'/aks-sys-frontend/'}>
-      <BrowserRouter basename={'/aks-sys-frontend/'}>
+      <BrowserRouter>
           <Routes>
               <Route index element={<HomeBot/>} />
           </Routes>
