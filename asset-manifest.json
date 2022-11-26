@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/aks-sys-frontend/static/css/main.9f9d746a.css",
-    "main.js": "/aks-sys-frontend/static/js/main.2a140324.js",
+    "main.css": "/aks-sys-frontend/static/css/main.27da18b4.css",
+    "main.js": "/aks-sys-frontend/static/js/main.cdc0f8fa.js",
+    "static/media/courses.png": "/aks-sys-frontend/static/media/courses.20d4060ff434aff79aec.png",
     "static/media/Inter-ExtraBoldItalic.woff": "/aks-sys-frontend/static/media/Inter-ExtraBoldItalic.8736eee4b17dfd01b5c4.woff",
     "static/media/Inter-BoldItalic.woff": "/aks-sys-frontend/static/media/Inter-BoldItalic.5933a1a6f57a2eaedc12.woff",
     "static/media/Inter-SemiBoldItalic.woff": "/aks-sys-frontend/static/media/Inter-SemiBoldItalic.138cfb015979ab86567a.woff",
@@ -20,6 +21,7 @@
     "static/media/Inter-Light.woff": "/aks-sys-frontend/static/media/Inter-Light.01708c4b9da09132976f.woff",
     "static/media/Inter-Thin.woff": "/aks-sys-frontend/static/media/Inter-Thin.2f70318d71e9f7c18f81.woff",
     "static/media/Inter-Regular.woff": "/aks-sys-frontend/static/media/Inter-Regular.489aabd31685d1fc0bd5.woff",
+    "static/media/video_prev.png": "/aks-sys-frontend/static/media/video_prev.6a070e777504e2abb75e.png",
     "static/media/InterV.woff": "/aks-sys-frontend/static/media/InterV.8911b26364bb76f062ec.woff",
     "static/media/Inter-BoldItalic.woff2": "/aks-sys-frontend/static/media/Inter-BoldItalic.cb7178bdea08400ccd02.woff2",
     "static/media/Inter-ExtraBoldItalic.woff2": "/aks-sys-frontend/static/media/Inter-ExtraBoldItalic.238b4b1e400960d4c865.woff2",
@@ -41,11 +43,11 @@
     "static/media/Inter-Thin.woff2": "/aks-sys-frontend/static/media/Inter-Thin.f8ea5e1a0ad9711cffc1.woff2",
     "static/media/InterV.woff2": "/aks-sys-frontend/static/media/InterV.b980b9f857e002a3709c.woff2",
     "index.html": "/aks-sys-frontend/index.html",
-    "main.9f9d746a.css.map": "/aks-sys-frontend/static/css/main.9f9d746a.css.map",
-    "main.2a140324.js.map": "/aks-sys-frontend/static/js/main.2a140324.js.map"
+    "main.27da18b4.css.map": "/aks-sys-frontend/static/css/main.27da18b4.css.map",
+    "main.cdc0f8fa.js.map": "/aks-sys-frontend/static/js/main.cdc0f8fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f9d746a.css",
-    "static/js/main.2a140324.js"
+    "static/css/main.27da18b4.css",
+    "static/js/main.cdc0f8fa.js"
   ]
 }
