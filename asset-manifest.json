@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aks-sys-frontend/static/css/main.3d3002b6.css",
-    "main.js": "/aks-sys-frontend/static/js/main.ad1eb4fc.js",
+    "main.js": "/aks-sys-frontend/static/js/main.24d0fcc4.js",
     "static/media/courses.png": "/aks-sys-frontend/static/media/courses.20d4060ff434aff79aec.png",
     "static/media/Inter-ExtraBoldItalic.woff": "/aks-sys-frontend/static/media/Inter-ExtraBoldItalic.8736eee4b17dfd01b5c4.woff",
     "static/media/Inter-BoldItalic.woff": "/aks-sys-frontend/static/media/Inter-BoldItalic.5933a1a6f57a2eaedc12.woff",
@@ -44,10 +44,10 @@
     "static/media/InterV.woff2": "/aks-sys-frontend/static/media/InterV.b980b9f857e002a3709c.woff2",
     "index.html": "/aks-sys-frontend/index.html",
     "main.3d3002b6.css.map": "/aks-sys-frontend/static/css/main.3d3002b6.css.map",
-    "main.ad1eb4fc.js.map": "/aks-sys-frontend/static/js/main.ad1eb4fc.js.map"
+    "main.24d0fcc4.js.map": "/aks-sys-frontend/static/js/main.24d0fcc4.js.map"
   },
   "entrypoints": [
     "static/css/main.3d3002b6.css",
-    "static/js/main.ad1eb4fc.js"
+    "static/js/main.24d0fcc4.js"
   ]
 }
