@@ -9,7 +9,8 @@ function App() {
       <BrowserRouter basename={'/aks-sys-frontend/'}>
       {/*<BrowserRouter>*/}
           <Routes>
-              <Route path={'/bot'} element={<HomeBot/>} />
+              {/*<Route path={'/bot'} element={<HomeBot/>} />*/}
+              <Route index element={<HomeBot/>} />
               <Route path={'/admin/chats'} element={<CheckChats/>} />
           </Routes>
       </BrowserRouter>
